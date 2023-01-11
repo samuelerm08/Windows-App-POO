@@ -1,0 +1,6 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.Core\obj\Debug\WindowsApp.Core.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.Core\obj\Debug\WindowsApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.Core\bin\Debug\WindowsApp.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.Core\bin\Debug\WindowsApp.Core.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.Core\obj\Debug\WindowsApp.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.Core\obj\Debug\WindowsApp.Core.pdb

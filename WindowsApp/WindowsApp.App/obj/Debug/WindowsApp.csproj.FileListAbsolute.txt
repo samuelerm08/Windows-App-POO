@@ -1,0 +1,14 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\bin\Debug\WindowsApp.App.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\bin\Debug\WindowsApp.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\bin\Debug\WindowsApp.App.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.App.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.App.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.WindowsApp.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\bin\Debug\WindowsApp.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\bin\Debug\WindowsApp.Core.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\WindowsApp\WindowsApp.App\obj\Debug\WindowsApp.csproj.CopyComplete
