@@ -12,16 +12,14 @@ namespace WindowsApp.Core.Entidades
         public string Descripcion { get; set; }
         public decimal PrecioCosto { get; set; }
         public double Margen { get; set; }
-        public double IVA { get; set; }
-        
-        private decimal _PrecioBruto;
-
-        private decimal _PrecioVenta;
+        public double IVA { get; set; }             
         public string Proveedor { get; set; }
         public string Categoria { get; set; }
         public string Subcategoria { get; set; }
-        public decimal PrecioBruto { get => _PrecioBruto = PrecioCosto + Convert.ToDecimal(Margen); }
-        public decimal PrecioVenta { get => _PrecioVenta = _PrecioBruto * Convert.ToDecimal(1 + this.IVA); }        
+        
+        public decimal PrecioBruto { get => PrecioCosto + Convert.ToDecimal(Margen); }
+        public decimal PrecioVenta { get => PrecioBruto * Convert.ToDecimal(1 + this.IVA); }        
+      
         public override string ToString()
         {            
             return $"Nombre: {Nombre}\n" +
